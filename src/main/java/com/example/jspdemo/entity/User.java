@@ -6,7 +6,7 @@ public class User {
 
     public Integer getId() {
         return id;
-    }//Get 封装
+    }//Get 封装11111111
 
     public void setId(Integer id) {
         this.id = id;
